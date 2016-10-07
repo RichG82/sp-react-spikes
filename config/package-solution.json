@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "react-5-client-side-solution",
+    "id": "f1d2f4f1-9c04-4996-b316-4108f73a6a50",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-5.spapp"
+  }
+}
